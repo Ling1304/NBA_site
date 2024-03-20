@@ -1,0 +1,4 @@
+Scoring Metric,Score
+Training R2,0.7478
+Testing R2,0.7128
+RMSE,0.1424
