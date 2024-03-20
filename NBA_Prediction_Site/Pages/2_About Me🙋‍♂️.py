@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 col1, col2 = st.columns([2, 3], gap = "medium")
 
 with col1: 
-    st.image(image = "C:/Users/60102/Desktop/NBA_Prediction_Site/IMG_5135.jpg")
+    st.image(image = "NBA_Prediction_Site/IMG_5135.jpg")
 
 with col2:
     st.title("About Me 🙋‍♂️")
